@@ -1,0 +1,19 @@
+table{
+
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+td{
+	padding: 0 2em;
+}
+form{
+	text-align: center;
+	padding-bottom: 1em;
+}
+button{
+	margin:0 auto;
+	text-align: center;
+
+}
